@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-web-app1",
+    "version": "0.0.0",
+    "description": "NodejsWebApp1",
+    "packageType": "service",
+    "appName": "SamyGrabber",
+    "serviceFile": "server.js",
+    "appPath": "index.html",
+    "keys": [ "VolumeUp", "VolumeDown" ],
+    "author": {
+        "name": ""
+    },
+    "devDependencies": {
+        "eslint": "^8.57.0"
+    },
+    "eslintConfig": {}
+}
